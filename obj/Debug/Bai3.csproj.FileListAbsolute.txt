@@ -1,0 +1,20 @@
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.exe.config
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.exe
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.pdb
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.TuDien.resources
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.exe
+D:\GiaoTrinh_DaiHoc\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.pdb
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.exe.config
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.exe
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\bin\Debug\Bai3.pdb
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.TuDien.resources
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.exe
+D:\GiaoTrinh_DaiHoc\HK1 Năm 2\Cautrucdulieu_vagiaithuat\DoAn(update)\(update)PhamQuynhHuong_TranThiBaoNgoc\Bai3\obj\Debug\Bai3.pdb
